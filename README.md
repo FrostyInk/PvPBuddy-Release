@@ -14,8 +14,6 @@ per-player stats for both teams, while the match is running.
 3. Launch the game. Nexus loads the addon automatically.
 4. Press `CTRL+SHIFT+P` to open the board. You can change the keybind in Nexus's keybind settings.
 
-The addon checks its license online the first time it starts, then keeps working offline for up to 7 days.
-
 ## What it does
 
 - **Both teams, live.** Every player with their profession or elite spec icon, character name and account.
@@ -27,7 +25,7 @@ The addon checks its license online the first time it starts, then keeps working
   - **Control:** CC, interrupts, boon strips, cleanses, blocks, evades.
 - **Badges** for each team's standouts (Damage, Downs, Finisher, Objectives, Anchor, Outnumbered, Medic,
   Survivor).
-- **MVP per team,** weighted so a support, a far-node holder or a roaming thief can win it, not only top damage.
+- **MVP per team,** weighted so a support, a duelist or a roaming thief can win it, not only top damage.
 - Hover a number for its exact value or breakdown, hover a name for profession and spec.
 
 Damage on stealthed enemies can't be seen by the game client, so Damage reads low against stealth-heavy teams.
